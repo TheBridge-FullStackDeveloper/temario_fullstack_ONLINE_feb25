@@ -23,6 +23,6 @@ A continuación, encontrarás una lista de ejercicios de CSS:
 
 | 🚀 Challenge                                                                                                                               |        Resuelto     |
 | --------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1. [U1](https://stackblitz.com/edit/1-2-css-entregable?file=index.html)  selectores, flexbox y modelo de cajas                               | [✅](https://stackblitz.com/edit/1-2-css-entregable-8yahzv?file=index.html)  |
-| 2. [U3](https://stackblitz.com/edit/1-3-css-entregable?file=index.html)  transiciones, transformaciones, animaciones y media queries         | [✅](https://stackblitz.com/edit/1-3-css-entregable-gtfcft?file=index.html)               |
+| 1. [U2](https://stackblitz.com/edit/1-2-css-entregable?file=index.html)  selectores, flexbox y modelo de cajas                               | [✅](https://stackblitz.com/edit/1-2-css-entregable-nnnce3?file=styles.css,index.html)  |
+| 2. [U3](https://stackblitz.com/edit/1-3-css-entregable?file=index.html)  transiciones, transformaciones, animaciones y media queries         | [✅](https://stackblitz.com/edit/1-3-css-entregable-5hkqmi?file=styles.css,index.html)               |
 
