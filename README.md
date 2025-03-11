@@ -45,4 +45,9 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Mobile first y media queries
 - Transform, transiciones y animaciones
 
+### 🚀 SPRINT 2. [JS Fundamentos](./01_Ramp_Up/03_js/) 
+- Variables y tipos de datos
+- Operadores, Arrays y Bucles
+- Funciones, Condicionales y Objetos
+
 ##### [Volver arriba](#top)
