@@ -20,8 +20,9 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 # 🗺️ Navegación rápida
 
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
-
-<br/>
+- **JS Avanzado** [Sprint 3](#core)
+- [**Clases de refuerzo**](#clases-de-refuerzo)
+  <br/>
 
 # 📚 Temario
 
@@ -69,3 +70,10 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Git y GitHub
 - DOM, nodos y eventos
 - SetAttribute
+
+### Clases de refuerzo
+
+- [**Mejora Planet Skin**](https://github.com/CarlosDiazGirol/planet-skin-available)
+  - [Ver grabación](https://drive.google.com/file/d/19TQaDeFDbaKZFTyxBns6Tu0ywzXOLSUF/view?usp=sharing)
+
+##### [Volver arriba](#top)
