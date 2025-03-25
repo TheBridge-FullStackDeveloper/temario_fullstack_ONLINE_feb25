@@ -20,7 +20,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 # 🗺️ Navegación rápida
 
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
-- **JS Avanzado** [Sprint 3](#core)
+- **JS Avanzado** [Sprint 3, 4](#js_avanzado)
 - [**Clases de refuerzo**](#clases-de-refuerzo)
   <br/>
 
@@ -70,6 +70,12 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Git y GitHub
 - DOM, nodos y eventos
 - SetAttribute
+
+### 🚀 SPRINT 4. [JS Avanzado 2](./02_JS_avanzado/sprint_4/)
+
+- Funciones puras y arrays
+- Métodos de array
+- Fetch
 
 ### Clases de refuerzo
 
