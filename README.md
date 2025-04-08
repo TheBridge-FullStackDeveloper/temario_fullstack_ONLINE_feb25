@@ -20,7 +20,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 # 🗺️ Navegación rápida
 
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
-- **JS Avanzado** [Sprint 3, 4, 5](#js_avanzado)
+- **JS Avanzado** [Sprint 3 a 8](#js_avanzado)
 - [**Clases de refuerzo**](#clases-de-refuerzo)
   <br/>
 
@@ -85,6 +85,13 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
   - Foreach, Map, Reduce, Filter
 - localSotrage y sessionStorage
 - Métodos de objeto
+
+### 🚀 SPRINT 6. [JS Avanzado 4](./02_JS_avanzado/sprint_6/)
+
+- Asincronía y promesas
+- Async/Await
+- Axios
+- API
 
 ### Clases de refuerzo
 
