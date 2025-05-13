@@ -21,7 +21,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
 - **JS Avanzado** [Sprint 3 a 8](#js_avanzado)
-- **Backend** [Sprints 9, 10](#backend)
+- **Backend** [Sprints 9, 10, 11](#backend)
 - [**Clases de refuerzo**](#clases-de-refuerzo)
   <br/>
 
@@ -118,6 +118,14 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Enrutamiento modular
 - Manejo de Archivos Estáticos
 - Instalación y configuración
+
+### 🚀 SPRINT 11. [API Rest y Fetch / Axios - CORS](./03_Backend/sprint_11/)
+
+- Creación de una API REST con Express.js
+- Definición de Rutas y Métodos
+- Pruebas de la API
+- CRUD
+- CORS
 
 ##### [Volver arriba](#top)
 
