@@ -21,7 +21,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
 - **JS Avanzado** [Sprint 3 a 8](#js_avanzado)
-- **Backend** [Sprints 9, 10, 11, 12](#backend)
+- **Backend** [Sprints 9 a 14](#backend)
 - [**Clases de refuerzo**](#clases-de-refuerzo)
   <br/>
 
@@ -133,6 +133,25 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
     - SQL Tipos de Datos
     - MySQL - Estructuras y Consultas Básicas
     - Consultas y comandos
+
+### 🚀 SPRINT 13. [TESTING, MongoDB y Mongoose](./03_Backend/sprint_13/)
+
+#### TESTING: Jest
+
+- Qué es Jest
+- Pruebas unitarias
+- Matchers
+- Mocks y Espías Integrados
+- Pruebas Asíncronas
+- Snapshot Testing
+
+#### MongoDB y Mongoose
+
+- Introducción a MongoDB
+- Documentos y Colecciones
+- Mongoose: Modelado de Datos para MongoDB en Node.js
+- Definición de Esquemas y Modelos con Mongoose
+- Operaciones CRUD Básicas con Mongoose
 
 ##### [Volver arriba](#top)
 
