@@ -22,6 +22,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
 - **JS Avanzado** [Sprint 3 a 8](#js_avanzado)
 - **Backend** [Sprints 9 a 14](#backend)
+- **Frontend** [Sprint 17](#frontend)
 - [**Clases de refuerzo**](#clases-de-refuerzo)
   <br/>
 
@@ -152,6 +153,23 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Mongoose: Modelado de Datos para MongoDB en Node.js
 - Definición de Esquemas y Modelos con Mongoose
 - Operaciones CRUD Básicas con Mongoose
+
+### 🚀 SPRINT 14. [DOCUMENTACIÓN y DEPLOY ](./03_Backend/sprint_14/)
+
+- DOCUMENTACIÓN con Swagger y Swagger UI
+- DEPLOY con Render
+
+##### [Volver arriba](#top)
+
+### [FRONTEND](./04_Frontend/)
+
+### 🚀 SPRINT 17. [REACT y PROPS ](./04_Frontend/sprint_17/)
+
+- Introducción a React
+- JSX en React
+- Componentes en React
+- El Hook useState
+- Props
 
 ##### [Volver arriba](#top)
 
